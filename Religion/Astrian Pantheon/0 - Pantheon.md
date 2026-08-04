@@ -1,0 +1,3 @@
+The Pantheon originates from the Empire of Astros, mixing believes of Astrian origin along with the religions of the people's conquered by the Empire. It is currently the most common religion of the western continent.  
+The gods of this Pantheon are called by their titles, not their true names, for it is believed that names hold power and none have the power over gods themselves.  
+The gods of this faith are silent and it is the role of people to lead their own lives. At the same time it is said that each of the gods has the power to call upon a Saint, essentially a demigod granted a particle of a god's power, in times of great need. 
