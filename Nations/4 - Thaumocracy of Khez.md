@@ -13,14 +13,14 @@ Khez is located on the northernmost lands of the Astrian continent. The Thaumocr
 **Government System**  
 Thaumocracy  
 **Throne City**  
-The Free City of Rovlin  
+The Free City of Rovlin    
 **Leader**  
 Grandmaster Wizard-King Isaak Condorven  
 **Official Religion**  
-None 
+None  
 **Official Languages**  
 Common, Undercommon, Orcish  
 **Demonym**  
-Khezian
-**Visual Inspiration**
-Medieval + Post WW2 Poland, Lithuania, Hungary, Wild West
+Khezian  
+**Visual Inspiration**  
+Medieval + Post WW2 Poland, Lithuania, Hungary, Wild West  
