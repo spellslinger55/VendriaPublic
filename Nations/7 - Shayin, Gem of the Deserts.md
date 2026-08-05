@@ -26,6 +26,6 @@ Saarian Pantheon
 **Official Languages**  
 Common, Primordial, Infernal  
 **Demonym**  
-Shanese
-**Visual Inspiration**
-Persia, Babylon, Arabia
+Shanese  
+**Visual Inspiration**  
+Persia, Babylon, Arabia  
