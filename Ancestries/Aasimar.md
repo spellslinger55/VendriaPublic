@@ -28,8 +28,8 @@ Depends on parentage
 Homo Deus  
 **Average Lifespan:**  
 Depends on parentage, plus a few decades  
-**Nativity:**
-Protectors - Astros 
+**Nativity:**  
+Protectors - Astros  
 Scourges - Nael  
 Watcher - Shayin  
 **Random Height (Average):**  
