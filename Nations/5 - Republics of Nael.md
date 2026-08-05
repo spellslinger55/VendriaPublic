@@ -24,6 +24,6 @@ Astrian Pantheon
 **Official Languages**  
 Common, Halfling, Celestial  
 **Demonym**  
-Naelian
-**Visual Inspiration**
-Renaissance era Italy, Venice, Age of Sail Spain, Portugal
+Naelian  
+**Visual Inspiration**  
+Renaissance era Italy, Venice, Age of Sail Spain, Portugal  
