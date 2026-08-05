@@ -26,6 +26,6 @@ Qanese Pantheon
 **Official Languages**  
 Qanese, Common  
 **Demonym**  
-Qanese
-**Visual Inspiration**
-Polynesia, Mesoamerica
+Qanese  
+**Visual Inspiration**  
+Polynesia, Mesoamerica  
