@@ -33,6 +33,6 @@ Astrian Pantheon
 **Official Languages**  
 Common  
 **Demonym**  
-Cayran
-**Visual Inspiration**
-Greece, Macedonia, Turkey, New York City
+Cayran  
+**Visual Inspiration**  
+Greece, Macedonia, Turkey, New York City  
