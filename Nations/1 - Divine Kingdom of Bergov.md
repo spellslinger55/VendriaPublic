@@ -13,17 +13,17 @@ Bergov has firmly adopted the Astrian Pantheon, with the Harvester, the Rose and
 ### Geography
 Bergov is located in central Astros. The land bound kingdom neighbors Khez to the north, Nael to the east and wild No Man's Lands to the west and south. Bergovian landscape consists primarily of dense forests, low hills, with the occasional lakes and rivers. Sprinkled throughout the land one could find ancient obelisks, groves, spires and other objects sacred to druidic sects. The land of Bergov is situated between two massive mountain ranges, the north one acting as a natural border between Bergov and Khez.
 
-**Government System**
-Monarchy
-**Throne City**
-Gryphonkeep
-**Leader**
+**Government System**  
+Monarchy  
+**Throne City**  
+Gryphonkeep  
+**Leader**  
 His Royal Highness, King Vigilance, the First of His Name, of the Gryphonheart Dynasty  
 **Official Religion**  
 Astrian Pantheon  
 **Official Languages**  
 Common, Dwarvish and Elvish  
 **Demonym**  
-Bergovian
-**Visual Inspiration**
+Bergovian  
+**Visual Inspiration**  
 Arthurian Britain, Celtic Ireland, Medieval France and Germany
