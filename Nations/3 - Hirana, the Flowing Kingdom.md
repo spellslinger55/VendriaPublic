@@ -28,6 +28,6 @@ Saarian Pantheon
 **Official Languages**  
 Common, Elvish, Draconic  
 **Demonym**  
-Hiranian
-**Visual Inspiration**
-Sengoku Japan, Three Kingdoms China 
+Hiranian  
+**Visual Inspiration**  
+Sengoku Japan, Three Kingdoms China  
