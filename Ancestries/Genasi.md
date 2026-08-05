@@ -69,5 +69,5 @@ Shayin
 **Ability Score Increase.** +1 Wisdom.  
 **Amphibious.** You can breathe air and water, and have a swimming speed equal to your movement speed.  
 **Down by the River.** You have advantage on saving throws you make to avoid or end the Stunned, Restrained or Grappled conditions on yourself.  
-**Fluid Nature.** You can add a d4 to one attack roll, ability check, or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Fluid Nature.** You can add a d4 to one attack roll, ability check, or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
 **Coldblooded.** You have resistance to Cold damage.
