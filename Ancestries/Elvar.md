@@ -29,7 +29,7 @@ Elves, True Elves
 Homo Faie Minor  / Homo Evare  
 **Average Lifespan:**  
 200 years  
-**Nativity:**
+**Nativity:**  
 Khez  
 **Random Height (Average):**  
 4'9" + 2d10 (5'8")  
@@ -44,14 +44,14 @@ Khez
 **Distant Spark.** As a bonus action you can ignite your inner spark of magic. It lasts for 1 minute or until you die. When you ignite your spark, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can ignite a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  
 **Lineage.**  
 
-<ins>Dawn Elvar.</ins>
+<ins>Dawn Elvar.</ins>  
 **Spark of Dawn.** While your spark is ignited, you have advantage on saving throws against spells.   
 
-<ins>Dusk Elvar.</ins>
+<ins>Dusk Elvar.</ins>  
 **Spark of Dusk.** While your spark is ignited, you can see in dim light and magical darkness within 60ft of you as if it were bright light.
 
-<ins>Solar Elvar.</ins>
+<ins>Solar Elvar.</ins>  
 **Spark of Sol.** While your spark is ignited, you can take the Hide action as a bonus action. Moreover, you can hide even when only lightly obscured.
 
-<ins>Lunar Elvar.</ins>
+<ins>Lunar Elvar.</ins>  
 **Spark of Luna.** When you ignite your spark and as a Bonus Action on your other turns while your spark is ignited, you can make an Unarmed Strike. If you hit with this Unarmed Strike and deal damage, you can deal Cold damage equal to 1d6 plus your Constitution modifier, instead of the normal damage of an Unarmed Strike.
