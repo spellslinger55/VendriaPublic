@@ -21,10 +21,10 @@ Tribalism
 **Leader**  
 Hakan Frea  
 **Official Religion**  
-None 
+None  
 **Official Languages**  
 Varrian, Dwarvish, Common  
 **Demonym**  
-Varrian
-**Visual Inspiration**
-Siberia, Mongolia, Finland
+Varrian  
+**Visual Inspiration**  
+Siberia, Mongolia, Finland  
