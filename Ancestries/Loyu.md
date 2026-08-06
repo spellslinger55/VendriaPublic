@@ -44,7 +44,7 @@ Hirana
 **Size.** Your size is Medium.  
 **Amphibious.** You can breathe air and water, and have a swimming speed equal to your movement speed.  
 **Electroperception.** As a bonus action, you can sense the current location of all creatures within 15 feet of you.  
-**Blood in the Water.** When you miss an attack roll against a creature that doesn't have all its hit points, you can reroll the attack. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
+**Blood in the Water.** When you miss an attack roll against a creature that doesn't have all its hit points, you can reroll the attack. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
 **Lineage.**
 
 <ins>Shiftingscale Loyu.</ins>  
