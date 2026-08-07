@@ -39,7 +39,7 @@ Homo Faie
 500 years  
 **Nativity:**  
 Dawn, Dusk - Hirana  
-Solar - Bergov
+Solar - Bergov  
 Lunar - Nael  
 **Random Height (Average):**  
 5' + 2d12 (6'1")  
