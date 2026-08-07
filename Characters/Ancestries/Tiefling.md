@@ -38,7 +38,7 @@ Depends on parentage, plus a few decades
 **Nativity:**  
 Ash - Khez  
 Cinder - Shayin  
-Soot - Astros 
+Soot - Astros  
 **Random Height (Average):**  
 Depends on parentage  
 **Random Weight (Average):**  
