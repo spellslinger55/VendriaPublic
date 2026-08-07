@@ -30,9 +30,9 @@ Homo Draconem
 80 years  
 **Nativity:**  
 Hirana  
-**Random Height (Average):**
+**Random Height (Average):**  
 5'6" + 2d8 (6'3")  
-**Random Weight (Average):**
+**Random Weight (Average):**  
 175 lbs + (2d8) x 2d6 lbs (238 lbs)
 # Dragonborn
 **Ability Score Increase.** +1 Charisma  
