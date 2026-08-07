@@ -29,7 +29,7 @@ Elves, True Elves
 Homo Faie Minor  / Homo Evare  
 **Average Lifespan:**  
 200 years  
-**Nativity:**
+**Nativity:**  
 Khez  
 **Random Height (Average):**  
 4'9" + 2d10 (5'8")  
