@@ -24,12 +24,12 @@ Oran history begins with mad priest-scientists of the Nukomikarangi Dominion, wh
 - High Priestess Mayyahuel - current leader of the oran people and the Twofold Avatar of Vortex and Root, whose left hand is freedom and right hand is death
 
 **Genetic Ancestors**:  
-Nukomikarangi
+Nukomikarangi  
 **Scientific Name:**  
 Homo Plantae Serpentes  
 **Average Lifespan:**  
 120 years  
-**Nativity:**
+**Nativity:**  
 Qan  
 **Random Height (Average):**  
 4'1" + 2d6 (4'8")  
@@ -37,32 +37,32 @@ Qan
 100 lbs + (2d6) x 1d4 lbs (121 lbs)
 
 # Oran
-**Ability Score Increase.** +1 Intelligence, +1 Wisdom
-**Size.** Medium
-**Speed.** 30ft
+**Ability Score Increase.** +1 Intelligence, +1 Wisdom  
+**Size.** Medium  
+**Speed.** 30ft  
 **Hydrovore.** You don’t need to eat and can fully sustain yourself on water.  
 **Lull.** Magic can't put you to sleep. You can finish a long rest in 6 hours if you spend those hours in an inactive, motionless state. During this time, you appear dormant but remain conscious.  
-**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. With this vision, you see color based on heat.
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. With this vision, you see color based on heat.  
 **Taking Root.** When you use your Unarmed Strike, you can choose to attack with your roots. You can add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack this way. This attack deals 1d4 Necrotic damage. In addition, when you deal this damage to a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways:
 - *Drink.* You regain Hit Points equal to the Necrotic damage dealt.
 - *Strengthen.* You gain a bonus to the next ability check or attack roll you make within the next minute; the bonus is equal to the Necrotic damage dealt.
-You can empower yourself with this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+You can empower yourself with this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  
 **Lineage.**
 
-<ins>Grove Oran.</ins>
-**Ability Score Increase.** +1 Constitution
-**Oaken Resilience.** You have resistance to Fire damage. Moreover you don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.
+<ins>Grove Oran.</ins>  
+**Ability Score Increase.** +1 Constitution  
+**Oaken Resilience.** You have resistance to Fire damage. Moreover you don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.  
 **Debilitate.** Your *Taking Root* trait gains an additional empower option:
 - *Debilitate.* The creature subtracts the Necrotic damage dealt to them from their next ability check or attack roll they make within the next minute.
 
-<ins>Forest Oran.</ins>
-**Ability Score Increase.** +1 Dexterity
+<ins>Forest Oran.</ins>  
+**Ability Score Increase.** +1 Dexterity  
 **Defensive Coloring.** You have advantage on Dexterity (Stealth) checks made to hide in foliage and plant-rich environments, and can take the Hide action while only lightly obscured by foliage.  
 **Invigorate.** Your *Taking Root* trait gains an additional empower option:
 - *Invigorate.* You can immediately move 10 feet without provoking attacks of opporunity.
 
-<ins>Orchard Oran.</ins>
-**Ability Score Increase.** +1 Charisma
-**Blood of my Blood.** As an action, you can create a number of Blood Fruit equal to your proficiency bonus. A creature other than you can use their bonus action to consume a Blood Fruit and roll a d4. It regains a number of hit points equal to the roll. Once you use this trait, you can't use it again until you finish a Long Rest. Uneaten Blood Fruit disappear when you finish a Long Rest.
+<ins>Orchard Oran.</ins>  
+**Ability Score Increase.** +1 Charisma  
+**Blood of my Blood.** As an action, you can create a number of Blood Fruit equal to your proficiency bonus. A creature other than you can use their bonus action to consume a Blood Fruit and roll a d4. It regains a number of hit points equal to the roll. Once you use this trait, you can't use it again until you finish a Long Rest. Uneaten Blood Fruit disappear when you finish a Long Rest.  
 **Ripen.** Your *Taking Root* trait gains an additional empower option:
 - *Ripen.* You create a Blood Fruit.

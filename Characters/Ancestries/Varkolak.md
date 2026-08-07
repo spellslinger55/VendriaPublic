@@ -30,30 +30,31 @@ Rovv
 Homo Crus Carnis  
 **Average Lifespan:**  
 60 years  
-**Nativity:**
-Khez
-**Random Height (Average):**
+**Nativity:**  
+Khez  
+**Random Height (Average):**  
 5'6" + 2d10 (6'5")  
 **Random Weight (Average):**  
 180 lbs + (2d10) x 2d6 lbs (257 lbs)
 
 # Varkolak
-**Ability Score Increase.** +2 Strength
-**Size.** Medium
-**Speed.** 30ft
-**Hale Metabolism.** You can consume raw and rotten food without suffering negative effects, and you have advantage on saving throws you make to avoid or end diseases and ingested poisons.**Bite.** You have a fanged maw that you can use to make unarmed strikes. When you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
+**Ability Score Increase.** +2 Strength  
+**Size.** Medium  
+**Speed.** 30ft  
+**Hale Metabolism.** You can consume raw and rotten food without suffering negative effects, and you have advantage on saving throws you make to avoid or end diseases and ingested poisons.  
+**Bite.** You have a fanged maw that you can use to make unarmed strikes. When you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
 **Blood in the Air.** As a reaction to a creature taking damage, you can move up to half your speed towards it.  
-**Plainrunner.** You gain proficiency with one of the following skills of your choice: Animal Handling, Perception, Survival, Stealth.
+**Plainrunner.** You gain proficiency with one of the following skills of your choice: Animal Handling, Perception, Survival, Stealth.  
 **Lineage.**
 
-<ins>Skirmisher Varkolak.</ins>
-**Ability Score Increase.** +1 Dexterity
+<ins>Skirmisher Varkolak.</ins>  
+**Ability Score Increase.** +1 Dexterity  
 **Rampage.** When you reduce a creature to 0 hit points with an attack on your turn, you can use a bonus action to move up to half your speed and make a Bite attack.  
 
-<ins>Stalker Varkolak.</ins>
-**Ability Score Increase.** +1 Wisdom
+<ins>Stalker Varkolak.</ins>  
+**Ability Score Increase.** +1 Wisdom  
 **Packmight.** As a bonus action, you let out a howl/cackle/cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-<ins>Soothsayer Varkolak.</ins>
-**Ability Score Increase.** +1 Charisma
+<ins>Soothsayer Varkolak.</ins>  
+**Ability Score Increase.** +1 Charisma  
 **Consult the Bones.** You know the *Guidance* cantrip. You also always have the *Detect Evil and Good* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.

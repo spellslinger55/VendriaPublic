@@ -28,8 +28,8 @@ Depends on parentage
 Homo Deus  
 **Average Lifespan:**  
 Depends on parentage, plus a few decades  
-**Nativity:**
-Protectors - Astros 
+**Nativity:**  
+Protectors - Astros  
 Scourges - Nael  
 Watcher - Shayin  
 **Random Height (Average):**  
@@ -37,9 +37,9 @@ Depends on parentage
 **Random Weight (Average):**  
 Depends on parentage
 # Aasimar
-**Ability Score Increase.** +2 Charisma
-**Size.** Medium or Small
-**Speed.** 30ft or 25ft
+**Ability Score Increase.** +2 Charisma  
+**Size.** Medium or Small  
+**Speed.** 30ft or 25ft  
 **Celestial Resistance.** You have resistance to Necrotic damage and Radiant damage.  
 **Healing Hands.** As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest.  
 **Light Bearer.** You know the _Light_ cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  

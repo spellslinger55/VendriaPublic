@@ -22,27 +22,27 @@ Unknown
 Homo Inanis  
 **Average Lifespan:**  
 70 years  
-**Nativity:**
-All / None 
+**Nativity:**  
+All / None  
 **Random Height (Average):**  
 4'8" + 2d10 (5'7")  
 **Random Weight (Average):**  
 110 lbs + (2d10) x 2d4 lbs (165 lbs)
 
 # Human
-**Ability Score Increase.** +2 to one ability score of your choice, +1 to one other ability scores of your choice
-**Size.** Medium
-**Speed.** 30ft
+**Ability Score Increase.** +2 to one ability score of your choice, +1 to one other ability scores of your choice  
+**Size.** Medium  
+**Speed.** 30ft  
 **Determined.** When you make an attack roll, an ability check or a saving throw, you can give yourself advantage. Once you use this ability, you can’t use it until you finish a short or long rest.  
 **Self-sufficient.** You gain proficiency in one skill and artisan’s tool of your choice.  
 **Innate Emptiness.** You gain the constant effect of Detect Magic within 10 feet of you. You cannot determine the precise origin point of that magic.  
 **Lineage.**   
 
-<ins>Hunter.</ins>
+<ins>Hunter.</ins>  
 **Hunter's Instinct.** When you make an Athletics or Survival check, you can roll a d4 and add the number rolled to the ability check.  
 
-<ins>Gatherer.</ins>
+<ins>Gatherer.</ins>  
 **Gatherer's Instinct.** When you make a Perception or Stealth check, you can roll a d4 and add the number rolled to the ability check.  
 
-<ins>Envoy.</ins>
+<ins>Envoy.</ins>  
 **Envoy's Instinct.** When you make an Insight or Intimidation check, you can roll a d4 and add the number rolled to the ability check.

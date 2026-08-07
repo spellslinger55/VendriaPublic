@@ -27,12 +27,12 @@ After the fall, orcs were the main force leading the rebirth of Khez as a free r
 - Varg the Hunter - bounty hunter, most famous for the 8 foot tall greatbow he uses
 
 **Genetic Ancestors:**  
-Tigrans
+Tigrans  
 **Scientific Name:**  
 Homo Okel  
 **Average Lifespan:**  
 70 years  
-**Nativity:**
+**Nativity:**  
 Khez  
 **Random Height (Average):**  
 5'4" + 2d8 (6'1")  
@@ -40,19 +40,19 @@ Khez
 175 lbs + (2d8) x 2d6 lbs (238 lbs)
 
 # Orc
-**Ability Score Increase.** +2 Strength
-**Size.** Medium
-**Speed.** 30ft
+**Ability Score Increase.** +2 Strength  
+**Size.** Medium  
+**Speed.** 30ft  
 **Darkvision.** You can see in dim light within 60ft of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Powerful Build.** You have advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
 **Old Traditions.** You have proficiency in one of the following skills of your choice: Animal Handling, Nature, Survival, Persuasion, Intimidation.  
 **Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.  
 **Lineage.**
 
-<ins>Bloodborne Orc.</ins>
-**Ability Score Increase.** +1 Constitution
+<ins>Bloodborne Orc.</ins>  
+**Ability Score Increase.** +1 Constitution  
 **Boiling Blood.** As a reaction to taking damage, you can regain 1d6 + your Constitution modifier hit points. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
 
-<ins>Battleborne Orc.</ins>
-**Ability Score Increase.** +1 Dexterity
+<ins>Battleborne Orc.</ins>  
+**Ability Score Increase.** +1 Dexterity  
 **Breaking Bones.** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 

@@ -27,25 +27,25 @@ According to the legends of the oll, they were formed by the Forefather of the G
 - Altan the Spitting Dagger - Varholt's greatest orator and skald, master of stories and undisputed ruler of flyting
 
 **Genetic Ancestors:**  
-Gangrandr
+Gangrandr  
 **Scientific Name:**  
 Homo Thurs  
 **Average Lifespan:**  
 200 years  
-**Nativity:**
+**Nativity:**  
 Varholt  
 **Random Height (Average):**  
 6'2" + 2d10 (7'1")  
 **Random Weight (Average):**  
 200 lbs + (2d10) x 2d6 lbs (277 lbs)
 # Oll (Giantblood)
-**Ability Score Increase.** +1 Strength
-**Size.** Medium
-**Speed.** 30ft 
+**Ability Score Increase.** +1 Strength  
+**Size.** Medium  
+**Speed.** 30ft  
 **Powerful Build.** You have advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
 **Lineage.**
 
-<ins>Skjoll (Stoneblood).</ins>
+<ins>Skjoll (Stoneblood).</ins>  
 **Ability Score Increase.** +1 Strength, +1 Constitution.  
 **Natural Athlete.** You have proficiency in the Athletics skill.  
 **Touch of Stone.** You have resistance to Cold damage and you’re acclimated to high altitude, including elevations above 20,000 feet.  
@@ -60,5 +60,5 @@ Varholt
 <ins>Vaoll (Cloudblood).</ins>  
 **Ability Score Increase.** +2 Constitution.  
 **Horns.** You have horns that you can use to make unarmed strikes. When you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
-**Gore.** You can attack with your Horns as a bonus action. If the attack hits, you can push the target 10 feet away from you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
+**Gore.** You can attack with your Horns as a bonus action. If the attack hits, you can push the target 10 feet away from you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   
 **Gift of the Cloud.** When you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the d20. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.

@@ -35,7 +35,7 @@ Depends on parentage
 Homo Diabolus  
 **Average Lifespan:**  
 Depends on parentage, plus a few decades  
-**Nativity:**
+**Nativity:**  
 Ash - Khez  
 Cinder - Shayin  
 Soot - Astros 
@@ -45,14 +45,14 @@ Depends on parentage
 Depends on parentage
 
 # Tiefling
-**Ability Score Increase.** +1 to one other ability score of your choice
-**Size.** Medium or Small
-**Speed.** 30ft or 25ft
+**Ability Score Increase.** +1 to one other ability score of your choice  
+**Size.** Medium or Small  
+**Speed.** 30ft or 25ft  
 **Darkvision.** You can see in dim light within 60ft of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Otherworldly Presence.** You know the _Thaumaturgy_ cantrip. When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Legacy trait.  
 **Lineage.**   
 
-<ins>Ash Tiefling.</ins>
+<ins>Ash Tiefling.</ins>  
 **Ability Score Increase**. +2 Strength.  
 **Abyssal Resistance.** You have resistance to Psychic damage.  
 **Abyssal Legacy**. You know the _Primal Savagery_ cantrip. When you reach 3rd level, you can cast the _Searing Smite_ spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Branding Smite_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.  
@@ -60,14 +60,14 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 **Abyssal Language.** You can speak, read and write Abyssal.   
 
 <ins>Cinder Tiefling.</ins>  
-**Ability Score Increase.** +2 Charisma.
+**Ability Score Increase.** +2 Charisma.  
 **Infernal Resistance.** You have resistance to Fire damage.  
 **Infernal Legacy.** You know the _Fire Bolt_ cantrip. When you reach 3rd level, you can cast the _Hellish Rebuke_ spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Darkness_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.  
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  
 **Infernal Language.** You can speak, read and write Infernal.   
 
 <ins>Soot Tiefling.</ins>  
-**Ability Score Increase.** +2 Constitution.
+**Ability Score Increase.** +2 Constitution.  
 **Profane Resistance.** You have resistance to Necrotic damage.  
 **Profane Legacy.** You know _Chill Touch_ cantrip. When you reach 3rd level, you can cast the _Armor of Agathys_ spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Shadow Blade_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.  
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  

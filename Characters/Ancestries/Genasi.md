@@ -27,28 +27,28 @@ Genasi are descend from the ancient civilization of Shayin. Those few of them, w
 - Solomon the Archmage - greatest spellcaster of shanese history, or some say all vendrian history. She was the first caster to summon and bind devils, the first mother to birth a tiefling, the first to create a dozen of spells. Famously, she is said to have penned the Codex Arcanum, a fabled book that contains all knowledge of magic, past and present alike
 
 **Genetic Ancestors:**  
-Tso Lien
+Tso Lien  
 **Scientific Name:**  
 Homo Ka  
 **Average Lifespan:**  
 100 years  
-**Nativity:**
+**Nativity:**  
 Shayin  
 **Random Height (Average)**:  
 4'8" + 2d10 (5'7")  
 **Random Weight (Average):**  
 110 lbs + (2d10) x 2d4 lbs (165 lbs)
 # Genasi
-**Ability Score Increase.** +2 Constitution
-**Size.** Medium
-**Speed.** 30ft.
+**Ability Score Increase.** +2 Constitution  
+**Size.** Medium  
+**Speed.** 30ft.  
 **Lineage.**   
 
 <ins>Air Genasi.</ins>  
 **Ability Score Increase.** +1 Dexterity.  
 **Unending Breath.** You can hold your breath indefinitely while you’re not incapacitated.  
-**Lighter than Air.** Your long jump distance is increased by 15 feet and your high jump distance is increased by 5 feet, with or without a running start.
-**Flow Through.** You can take the Disengage action as a bonus action on each of your turns.
+**Lighter than Air.** Your long jump distance is increased by 15 feet and your high jump distance is increased by 5 feet, with or without a running start.  
+**Flow Through.** You can take the Disengage action as a bonus action on each of your turns.  
 **Stormborn.** You have resistance to Lightning damage.   
 
 <ins>Earth Genasi.</ins>  
@@ -60,7 +60,7 @@ Shayin
 
 <ins>Fire Genasi.</ins>  
 **Ability Score Increase.** +1 Intelligence.  
-**Torchbearer.** You can cause your body to produce light, as if you had cast the *Light* cantrip on yourself. This feature can be disabled and enabled as a bonus action.
+**Torchbearer.** You can cause your body to produce light, as if you had cast the *Light* cantrip on yourself. This feature can be disabled and enabled as a bonus action.  
 **Roaring Heart.** You have advantage on saving throws you make to avoid or end the Charmed or Frightened conditions on yourself.  
 **Scorching Sanctuary.** You have advantage on saving throws against spells from the Evocation school.  
 **Flamewrought.** You have resistance to Fire damage.  

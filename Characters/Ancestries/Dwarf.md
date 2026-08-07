@@ -44,12 +44,12 @@ Cave - Hirana
 **Random Weight (Average):**  
 115 lbs + (2d4) x 2d6 lbs (150 lbs)
 # Dwarf
-**Ability Score Increase.** +2 Constitution
-**Size.** Medium
-**Speed.** 25ft.
+**Ability Score Increase.** +2 Constitution  
+**Size.** Medium  
+**Speed.** 25ft.  
 **Darkvision.** You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
 **Dwarven Resilience.** You have advantage on saving throws you make to avoid or end the poisoned condition on yourself, and you have resistance to poison damage.  
-**Master Craftsmen.** You gain proficiency and expertise with one artisan's tools of your choice.
+**Master Craftsmen.** You gain proficiency and expertise with one artisan's tools of your choice.  
 **Rock and Stone.** When you fail a Constitution saving throw, you can use your reaction to roll a d4 and add it to the save.  
 **Lineage.**   
 

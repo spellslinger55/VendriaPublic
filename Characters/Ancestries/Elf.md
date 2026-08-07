@@ -37,21 +37,21 @@ True Elves
 Homo Faie  
 **Average Lifespan:**  
 500 years  
-**Nativity:**
+**Nativity:**  
 Dawn, Dusk - Hirana  
 Solar - Bergov
-Lunar - Nael
+Lunar - Nael  
 **Random Height (Average):**  
 5' + 2d12 (6'1")  
 **Random Weight (Average):**  
 90 lbs + (2d12) x 1d4 lbs (122 lbs)
 # Elf
-**Ability Score Increase.** +2 Dexterity
-**Size.** Medium
-**Speed.** 30ft
-**Keen Senses.** You have proficiency in the Insight, Perception, or Survival skill.
+**Ability Score Increase.** +2 Dexterity  
+**Size.** Medium  
+**Speed.** 30ft  
+**Keen Senses.** You have proficiency in the Insight, Perception, or Survival skill.  
 **True Ancestry.** You have advantage on saving throws you make to avoid or end the Charmed condition on yourself.  
-**Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trance-like meditation, during which you retain consciousness. 
+**Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trance-like meditation, during which you retain consciousness.  
 **Lineage.**   
 
 <ins>Dawn Elf.</ins>  

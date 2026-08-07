@@ -28,33 +28,33 @@ Unknown
 Homo Socialis  
 **Average Lifespan:**  
 150 years  
-**Nativity:**
-Nael
+**Nativity:**  
+Nael  
 **Random Height (Average):**  
 2'7" + 2d4 (3')  
 **Random Weight (Average):**  
 35 lbs + (2d4) x 1d4 lbs (45 lbs)
 
 # Halfling
-**Ability Score Increase.** +2 Dexterity
-**Size.** Small
-**Speed.** 25ft
+**Ability Score Increase.** +2 Dexterity  
+**Size.** Small  
+**Speed.** 25ft  
 **Language of the People.** You can speak, read and write Halfling.  
 **Lucky.** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.  
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.  
 **Lineage.**
 
-<ins>Hillock Halfling.</ins>
-**Ability Score Increase.** +1 Constitution
+<ins>Hillock Halfling.</ins>  
+**Ability Score Increase.** +1 Constitution  
 **Brave.** You have advantage on saving throws you make to avoid or end the Frightened condition on yourself.  
 **Bend Fate.** Whenever you use your Lucky trait, choose a creature within 30 feet of you and grant it either Advantage or Disadvantage on the next attack roll, ability check, or saving throw it makes within 1 minute.
 
-<ins>Meadow Halfling.</ins>
-**Ability Score Increase.** +1 Charisma
-**Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+<ins>Meadow Halfling.</ins>  
+**Ability Score Increase.** +1 Charisma  
+**Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.  
 **Fated Outcome.** Whenever you use your Lucky trait, instead of rolling you can treat the die as if it had rolled a 10.
 
-<ins>Thicket Halfling.</ins>
-**Ability Score Increase.** +1 Wisdom
-**Timberwalk.** Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.
+<ins>Thicket Halfling.</ins>  
+**Ability Score Increase.** +1 Wisdom  
+**Timberwalk.** Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.  
 **Bountiful Fate.** Whenever you use your Lucky trait, you have advantage on the reroll.

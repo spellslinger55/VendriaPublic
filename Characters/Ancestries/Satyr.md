@@ -38,15 +38,15 @@ Bergov
 100 lbs + (2d10) x 1d4 lbs (133 lbs)
 
 # Satyr
-**Ability Score Increase** +2 Charisma
-**Size** Medium
-**Speed** 30ft
+**Ability Score Increase**. +2 Charisma  
+**Size**. Medium  
+**Speed**. 30ft  
 **Laughing Mad.** You have advantage on saving throws against spells from the Enchantment and Illusion schools.  
 **Party Animal.** You have advantage on saving throws you make to avoid or end the poisoned condition on yourself, and you have resistance to poison damage.  
-**The Show Goes On.** You gain proficiency in one musical instrument of your choice.
+**The Show Goes On.** You gain proficiency in one musical instrument of your choice.  
 **Lineage.**
 
-<ins>Winter Antlers Satyr.</ins>
+<ins>Winter Antlers Satyr.</ins>  
 **Ability Score Increase.** +1 Wisdom.  
 **Royal Reminiscence.** You know one cantrip of your choice from the druid spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  
 **Nature's Guidance.** You can move across non-magical difficult terrain without expanding extra movement.   
