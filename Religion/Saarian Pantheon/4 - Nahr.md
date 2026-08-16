@@ -1,17 +1,17 @@
 God of waters, death, boundaries, repose, oaths, selflessness.
 
-**Divine Domains.**
+**Divine Domains.**  
 Grave.  
 Order.  
 Twilight.
 
-**Epithets.**
+**Epithets.**  
 Lonam, the Net Constellation.  
 Rhan, the Boat Constellation.
 
 **Alignment:**  
 Lawful Neutral  
-**Holy Symbol:**
+**Holy Symbol:**  
 Crossed streams  
 **Constellation:**  
 The Rivers

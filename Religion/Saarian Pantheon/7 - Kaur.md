@@ -1,17 +1,17 @@
 God of fate, madness, pain, sacrifice, bravery, defiance.
 
-**Divine Domains.**
+**Divine Domains.**  
 Order.  
 War.  
 Fate.
 
-**Epithets.**
+**Epithets.**  
 Bharat, the Fractal Constellation.  
 Ona, the Hammer Constellation.
 
-**Alignment:**
+**Alignment:**  
 Lawful Evil  
-**Holy Symbol:**
+**Holy Symbol:**  
 Four fingered hand  
-**Constellation:**
+**Constellation:**  
 The Wheel

@@ -1,17 +1,17 @@
 Goddess of magic, alchemy, virtues, innocence, family, fertility.
 
-**Divine Domains.**
+**Divine Domains.**  
 Arcana.  
 Life.  
 Virtue.
 
-**Epithets.**
+**Epithets.**  
 Meritamen, the Cup-Bearer Constellation.  
 Tuya, the Cauldron Constellation.
 
-**Alignment:**
+**Alignment:**  
 Neutral Good  
-**Holy Symbol:**
+**Holy Symbol:**  
 Bowl  
-**Constellation:**
+**Constellation:**  
 The Witch

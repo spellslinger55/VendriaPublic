@@ -1,17 +1,17 @@
 God of mirages, sandstorms, violence, annihilation, tyranny, punishment.
 
-**Divine Domains.**
+**Divine Domains.**  
 Trickery.  
 War.  
 Tyranny.
 
-**Epithets.**
+**Epithets.**  
 Aasshm, the Fool Constellation.  
 Kilam, the Tower Constellation.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Evil  
-**Holy Symbol:**
+**Holy Symbol:**  
 Stylized swirl, forming a dust devil  
-**Constellation:**
+**Constellation:**  
 The Jackal

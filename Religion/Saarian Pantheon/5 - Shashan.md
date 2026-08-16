@@ -1,17 +1,17 @@
 Goddess of knowledge, clarity, curiosity, craft, dragons, protection.
 
-**Divine Domains.**
+**Divine Domains.**  
 Forge.  
 Knowledge.  
 Peace.
 
-**Epithets.**
+**Epithets.**  
 Shan, the Fang Constellation.  
 Sha, the Egg Constellation.
 
-**Alignment:**
+**Alignment:**  
 True Neutral  
-**Holy Symbol:**
+**Holy Symbol:**  
 Five claws forming a star  
-**Constellation:**
+**Constellation:**  
 The Dragon

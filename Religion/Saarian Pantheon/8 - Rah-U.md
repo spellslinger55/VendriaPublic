@@ -1,17 +1,17 @@
 Goddess of earth, plants, plagues, love, jealousy, cruelty.
 
-**Divine Domains.**
+**Divine Domains.**  
 Death.  
 Nature.  
 Pestilence.
 
-**Epithets.**
+**Epithets.**  
 T'uaren, the Axe Constellation.  
 Sonor, the Rattle Constellation.
 
-**Alignment:**
+**Alignment:**  
 Neutral Evil  
-**Holy Symbol:**
+**Holy Symbol:**  
 Cracked diamond  
-**Constellation:**
+**Constellation:**  
 The Gem

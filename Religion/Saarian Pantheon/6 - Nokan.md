@@ -1,17 +1,17 @@
 Goddess of lies, truth, art, inspiration, rebirth, crossroads.
 
-**Divine Domains.**
+**Divine Domains.**  
 Life.  
 Trickery.  
 Sound.
 
-**Epithets.**
+**Epithets.**  
 Ichi, the Oud Constellation.  
 Taiko, the Drums Constellation.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Neutral.  
-**Holy Symbol:**
+**Holy Symbol:**  
 White featureless mask  
-**Constellation:**
+**Constellation:**  
 The Flute

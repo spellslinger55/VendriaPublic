@@ -1,17 +1,17 @@
 God of leadership, vitality, fire, warfare, castes, trials.
 
-**Divine Domains.**
+**Divine Domains.**  
 Light.  
 Tempest.  
 Judgment.
 
-**Epithets.**
+**Epithets.**  
 Rama, the Arrow Constellation.  
 Vish, the Scales Constellation.
 
-**Alignment:**
+**Alignment:**  
 Lawful Good  
-**Holy Symbol:**
+**Holy Symbol:**  
 A crown  
 **Constellation:**  
 The King

@@ -1,17 +1,17 @@
 Goddess of weather, change, freedom, vagrants, language, mischief.
 
-**Divine Domains.**
+**Divine Domains.**  
 Arcana.  
 Trickery.  
 Wind.
 
-**Epithets.**
+**Epithets.**  
 Parem, the Hare Constellation.  
 Kita, the Fox Constellation.
 
 **Alignment:**  
 Chaotic Good  
-**Holy Symbol:**
+**Holy Symbol:**  
 Plume of feathers  
-**Constellation:**
+**Constellation:**  
 The Crow
