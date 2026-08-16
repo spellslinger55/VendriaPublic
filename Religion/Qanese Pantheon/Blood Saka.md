@@ -9,4 +9,4 @@ Blood.
 Chaotic Neutral  
 
 **Animal Form:**  
-Terror Lizard
+Tyrannosaurus  
