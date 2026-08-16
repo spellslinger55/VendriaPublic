@@ -1,6 +1,6 @@
 God of undeath, magic, conquest, slavery, power.
 
-**Divine Domains.**
+**Divine Domains.**  
 Arcana.  
 Death.  
 War.

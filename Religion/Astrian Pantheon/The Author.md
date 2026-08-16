@@ -1,11 +1,11 @@
 Goddess of art, music, theater, creativity, creation, life.
 
-**Divine Domains.**
+**Divine Domains.**  
 Life.  
 Trickery.  
 Music.  
 
-**Alignment:**
+**Alignment:**  
 True Neutral  
 
 **Holy Symbol:**  

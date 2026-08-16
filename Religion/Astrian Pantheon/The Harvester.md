@@ -1,12 +1,12 @@
 God of nature, farming, cycles, life and death, the seasons.
 
-**Divine Domains.**
+**Divine Domains.**  
 Grave.  
 Life.  
 Nature.
 
-**Alignment:**
+**Alignment:**  
 Lawful Neutral  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Wheat stalks forming a circle

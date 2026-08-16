@@ -1,11 +1,11 @@
 Goddess of alcohol, feasting, debauchery, riches, madness, breaking bonds, love.
 
-**Divine Domains.**
+**Divine Domains.**  
 Trickery.  
 Twilight.  
 Madness.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Neutral  
 
 **Holy Symbol:**  

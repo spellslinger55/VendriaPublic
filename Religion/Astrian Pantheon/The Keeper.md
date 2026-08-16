@@ -1,12 +1,12 @@
 God of oceans and seas, sleep, secrets and mysteries, forgetting, sea storms.
 
-**Divine Domains.**
+**Divine Domains.**  
 Knowledge.  
 Twilight.  
 Sleep.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Evil  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Open eye with multiple irises

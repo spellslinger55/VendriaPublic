@@ -1,12 +1,12 @@
 Goddess of light, purity, unity, combat, competition, diplomacy, athleticism.
 
-**Divine Domains.**
+**Divine Domains.**  
 Light.  
 War.  
 Purity.
 
-**Alignment:**
+**Alignment:**  
 Lawful Good  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 White rose

@@ -1,12 +1,12 @@
 God of magic, knowledge, memory, revealing secrets, art.
 
-**Divine Domains.**
+**Divine Domains.**  
 Arcana.  
 Knowledge.  
 Memory
 
-**Alignment:**
+**Alignment:**  
 Lawful Neutral  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Open book with an eye on each page

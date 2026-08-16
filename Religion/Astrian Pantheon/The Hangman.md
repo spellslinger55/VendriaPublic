@@ -1,12 +1,12 @@
 Deity of law, justice, retribution, civilization, cities.
 
-**Divine Domains.**
+**Divine Domains.**  
 Order.  
 Peace.  
 Retribution.
 
-**Alignment:**
+**Alignment:**  
 Lawful Good  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Empty noose

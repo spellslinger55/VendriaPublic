@@ -1,12 +1,12 @@
 God of freedom, lies, crime, thievery, lawbreaking.
 
-**Divine Domains.**
+**Divine Domains.**  
 Death.  
 Trickery.  
 Chaos.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Evil  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Cut open empty bag

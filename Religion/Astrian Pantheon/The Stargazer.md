@@ -1,12 +1,12 @@
 Goddess of dreams, hope, faith, safe travels, navigation, astronomy.
 
-**Divine Domains.**
+**Divine Domains.**  
 Light.  
 Twilight.  
 Hope.
 
-**Alignment:**
+**Alignment:**  
 Lawful Good  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Eight pointed star

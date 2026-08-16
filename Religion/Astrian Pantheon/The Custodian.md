@@ -1,12 +1,12 @@
 God of the dead, riches, precious metals and gemstones, the underground.
 
-**Divine Domains.**
+**Divine Domains.**  
 Death.  
 Grave.  
 Wealth.
 
-**Alignment:**
+**Alignment:**  
 True Neutral  
 
-**Hoy Symbol:**
+**Holy Symbol:**  
 Cornucopia of riches

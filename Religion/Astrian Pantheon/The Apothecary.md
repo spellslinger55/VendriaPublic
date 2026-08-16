@@ -1,6 +1,6 @@
 Goddess of medicine, health, science, poison, growth, gardening, progress, vivisections.
 
-**Divine Domains.**
+**Divine Domains.**  
 Grave.  
 Life.  
 Science.
@@ -8,5 +8,5 @@ Science.
 **Alignment:**  
 Chaotic Neutral
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Stinging nettle

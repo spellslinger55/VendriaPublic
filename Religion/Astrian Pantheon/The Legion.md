@@ -1,12 +1,12 @@
 Deity of war, strategy, honor, glory, armies, craftsmanship.
 
-**Divine Domains.**
+**Divine Domains.**  
 Forge.  
 War.  
 Loyalty.
 
-**Alignment:**
+**Alignment:**  
 Neutral Good  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Battered shield behind a hammer

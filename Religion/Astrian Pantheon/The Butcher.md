@@ -1,11 +1,11 @@
 God of survival, hunting, cooking, resourcefulness, craftsmanship.
 
-**Divine Domains.**
+**Divine Domains.**  
 Forge.  
 Nature.  
 Hunt.
 
-**Alignment:**
+**Alignment:**  
 Neutral Good  
 
 **Holy Symbol:**  

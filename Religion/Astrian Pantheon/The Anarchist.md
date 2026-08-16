@@ -1,6 +1,6 @@
 Deity of fire, rebellion, freedom, change, the breaking of cycles.
 
-**Divine Domains.**
+**Divine Domains.**  
 Light.  
 Tempest.  
 Anarchy.
@@ -8,5 +8,5 @@ Anarchy.
 **Alignment:**  
 Chaotic Neutral  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Burning wheel

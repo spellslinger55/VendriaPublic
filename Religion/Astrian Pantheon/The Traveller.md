@@ -1,12 +1,12 @@
 God of roads, adventure, borders, wit, cleverness, the Sun.
 
-**Divine Domains.**
+**Divine Domains.**  
 Tempest.  
 Light.  
 Travel.
 
-**Alignment:**
+**Alignment:**  
 Neutral Good  
 
-**Holy Symbol:**
+**Holy Symbol:**  
 Signpost pointing in three directions
