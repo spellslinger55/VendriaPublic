@@ -1,12 +1,12 @@
 Avatar of detritus, corpses, memory, patience.
 
-**Divine Domains.**
+**Divine Domains.**  
 Grave.  
 Knowledge.  
 Pestilence.
 
-**Alignment:**
+**Alignment:**  
 Lawful Neutral  
 
-**Animal Form:**
+**Animal Form:**  
 Maggot

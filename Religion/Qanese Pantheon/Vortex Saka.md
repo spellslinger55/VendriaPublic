@@ -1,12 +1,12 @@
 Avatar of rapids, turbulent waters, freedom, defiance.
 
-**Divine Domains.**
+**Divine Domains.**  
 Life.  
 Nature.  
 Water.
 
-**Alignment:**
+**Alignment:**  
 Chaotic Good  
 
-**Animal Form:**
+**Animal Form:**  
 Harpy Eagle

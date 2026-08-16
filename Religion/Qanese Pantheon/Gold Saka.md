@@ -1,6 +1,6 @@
 Avatar of light, groups, guidance, protection.
 
-**Divine Domains.**
+**Divine Domains.**  
 Light.  
 Order.  
 Family.
@@ -8,5 +8,5 @@ Family.
 **Alignment:**  
 Lawful Good  
 
-**Animal Form:**
+**Animal Form:**  
 Lion

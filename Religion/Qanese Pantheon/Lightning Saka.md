@@ -1,6 +1,6 @@
 Avatar of theft, foraging, deception, fear.
 
-**Divine Domains.**
+**Divine Domains.**  
 Trickery.  
 Twilight.  
 Dread.
@@ -8,5 +8,5 @@ Dread.
 **Alignment:**  
 Neutral Evil  
 
-**Animal Form:**
+**Animal Form:**  
 Jaguar

@@ -1,6 +1,6 @@
 Avatar of northern winds, sport, rejuvenation, competition.
 
-**Divine Domains.**
+**Divine Domains.**  
 Life.  
 Peace.  
 Sport.
