@@ -55,7 +55,7 @@ Varholt
 **Ability Score Increase.** +1 Wisdom, +1 Intelligence.  
 **Eye for Craft.** You have proficiency in one artisan's tool of your choice.  
 **Visions.** When you fail a Wisdom saving throw, you can use your reaction to roll a d4 and add it to the save.   
-**Gift of the Storm.** You have the ability to communicate in a limited manner with Beasts, birds in particular. They can understand your words and gestures and you have a basic understanding of their answers.  
+**Gift of the Storm.** You also always have the *Speak with Animals* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.  
 
 <ins>Vaoll (Cloudblood).</ins>  
 **Ability Score Increase.** +2 Constitution.  
