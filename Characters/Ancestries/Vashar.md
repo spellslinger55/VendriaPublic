@@ -46,11 +46,11 @@ Shayin
 
 <ins>Predator Vashar.</ins>  
 **Ability Score Increase.** +1 Constitution  
-**Feline Hunt.** As a Bonus Action, you let out a roar/hiss/cry at your enemies within 15 feet of you. Each creature of your choice within 15 feet of you must succeed on a Wisdom saving throw (DC 8 plus your Constitution or Charisma modifier and Proficiency Bonus) or have Disadvantage on attack rolls and saving throws until the start of your next turn. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+**Feline Hunt.** As a Bonus Action, you let out a roar/hiss/cry at your enemies. Each creature of your choice within 15 feet of you must succeed on a Wisdom saving throw (DC 8 plus your Constitution or Charisma modifier and Proficiency Bonus) or have Disadvantage on attack rolls and saving throws until the start of your next turn. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 <ins>Prowler Vashar.</ins>  
 **Ability Score Increase.** +1 Charisma  
-**Feline Mischief.** You can take the _Help_ action as a bonus action. When you do so, the creature gains Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
+**Feline Mischief.** You can take the _Help_ action as a Bonus Action. When you do so, the creature you helped gains Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
 
 <ins>Pursuer Vashar.</ins>  
 **Ability Score Increase.** +1 Dexterity  
