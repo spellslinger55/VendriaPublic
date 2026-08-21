@@ -41,17 +41,17 @@ Khez
 **Speed.** 30ft  
 **Language Versatility.** You can speak, read, and write one language of your choice.    
 **Skill Versatility.** You gain proficiency in two skills of your choice.  
-**Distant Spark.** As a bonus action you can ignite your inner spark of magic. It lasts for 1 minute or until you die. When you ignite your spark, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can ignite a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  
+**Distant Spark.** As a Bonus Action you can ignite your inner spark of magic. It lasts for 1 minute or until you die. When you ignite your spark, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can ignite a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  
 **Lineage.**  
 
 <ins>Dawn Elvar.</ins>  
-**Spark of Dawn.** While your spark is ignited, you have advantage on saving throws against spells.   
+**Spark of Dawn.** While your spark is ignited, you have Advantage on saving throws against spells.   
 
 <ins>Dusk Elvar.</ins>  
-**Spark of Dusk.** While your spark is ignited, you can see in dim light and magical darkness within 60ft of you as if it were bright light.
+**Spark of Dusk.** While your spark is ignited, you can see in dim light and magical darkness within 60ft of you as if it were bright light and you have a +1 bonus to your Armor Class.
 
 <ins>Solar Elvar.</ins>  
-**Spark of Sol.** While your spark is ignited, you can take the Hide action as a bonus action. Moreover, you can hide even when only lightly obscured.
+**Spark of Sol.** While your spark is ignited, your speed increases by 10 feet. Additionally, you can move up to 10 feet as a Reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke Opportunity Attacks.
 
 <ins>Lunar Elvar.</ins>  
-**Spark of Luna.** When you ignite your spark and as a Bonus Action on your other turns while your spark is ignited, you can make an Unarmed Strike. If you hit with this Unarmed Strike and deal damage, you can deal Cold damage equal to 1d6 plus your Constitution modifier, instead of the normal damage of an Unarmed Strike.
+**Spark of Luna.** When you ignite your spark and as a Bonus Action on your other turns while your spark is ignited, you can make an Unarmed Strike. If you hit with this Unarmed Strike and deal damage, you can deal Cold damage equal to 1d6 plus your Strength modifier, instead of the normal damage of an Unarmed Strike.

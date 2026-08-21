@@ -39,15 +39,19 @@ Shayin
 **Ability Score Increase.** +1 Charisma, +1 Dexterity  
 **Size.** Medium  
 **Speed.** 35ft, 35ft climbing  
-**Darkvision.** You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.   
-**Cat's Claws.** Because of your claws, you have a climbing speed equal to your walking speed. In addition, you can use your claws to make unarmed strikes with. When you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
+**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.   
+**Claws.** You have claws that you can use to make Unarmed Strikes. When you hit with them, you deal Slashing damage equal to 1d6 + your Strength modifier, instead of the Bludgeoning damage normal for an Unarmed Strike.  
 **Nimble Grace.** When you fall and aren't incapacitated, you can subtract up to 30 feet from the fall when calculating falling damage.  
 **Lineage.**  
 
 <ins>Predator Vashar.</ins>  
-**Ability Score Increase.** +1 Charisma  
-**Predator's Cunning.** You can take the _Hide_ action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   
+**Ability Score Increase.** +1 Constitution  
+**Feline Hunt.** As a Bonus Action, you let out a roar/hiss/cry at your enemies within 15 feet of you. Each creature of your choice within 15 feet of you must succeed on a Wisdom saving throw (DC 8 plus your Constitution or Charisma modifier and Proficiency Bonus) or have Disadvantage on attack rolls and saving throws until the start of your next turn. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 <ins>Prowler Vashar.</ins>  
+**Ability Score Increase.** +1 Charisma  
+**Feline Mischief.** You can take the _Help_ action as a bonus action. When you do so, the creature gains Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
+
+<ins>Pursuer Vashar.</ins>  
 **Ability Score Increase.** +1 Dexterity  
-**Prowler's Mischief.** You can take the _Disengage_ action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Feline Pounce.** As a Bonus Action, you can pounce on an enemy within 15 feet of you. Move next to them without provoking Opportunity Attacks, then make an Attack with your *Claws*. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
