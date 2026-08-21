@@ -39,25 +39,25 @@ Varholt
 **Ability Score Increase.** +2 Constitution  
 **Size.** Medium  
 **Speed.** 30ft  
-**No Rest for the Wicked.** You have advantage on Death Saving Throws.  
-**Baleful Energy.** You have advantage on saving throws you make to avoid or end the Frightened condition on yourself.  
+**No Rest for the Wicked.** You have Advantage on Death Saving Throws.  
+**Baleful Energy.** You have Advantage on saving throws you make to avoid or end the Frightened condition on yourself.  
 **Untethered Bond**. You know one of the following cantrips of your choice: *Mage Hand*, *Message*, or *Minor Illusion*. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  
 **Lineage.**   
 
 <ins>Nothing Ravga.</ins>  
 **Ability Score Increase.** +1 Strength  
-**Anti-Light.** You have resistance to Radiant damage.  
+**Anti-Light.** You have Resistance to Radiant damage.  
 **Essence of Nothing**. When you reach 3rd level, you can cast the _False Life_ spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Blur_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.  
-When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Untethered Bond trait.
+When you cast it with this trait, the Spell uses the same spellcasting ability you use for your *Untethered Bond* trait.
 
 <ins>Nowhere Ravga.</ins>  
 **Ability Score Increase.** +1 Dexterity  
-**Anti-Death.** You have resistance to Necrotic damage.  
-**Essence of Nowhere**. When you reach 3rd level, you can cast the _Fog Cloud_ spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Misty Step_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.  
-When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Untethered Bond trait.
+**Anti-Death.** You have Resistance to Necrotic damage.  
+**Essence of Nowhere**. When you reach 3rd level, you can cast the _Fog Cloud_ spell once with this trait and regain the ability to do so when you finish a Long Rest. When you reach 5th level, you can cast the _Misty Step_ spell once with this trait and regain the ability to do so when you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level.  
+When you cast it with this trait, the Spell uses the same spellcasting ability you use for your *Untethered Bond* trait.
 
 <ins>Nobody Ravga.</ins>  
 **Ability Score Increase.** +1 Intelligence  
-**Anti-Mind.** You have resistance to Psychic damage.  
-**Essence of Nobody**. When you reach 3rd level, you can cast the _Dissonant Whispers_ spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _Detect Thoughts_ spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.    
-When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Untethered Bond trait.
+**Anti-Mind.** You have Resistance to Psychic damage.  
+**Essence of Nobody**. When you reach 3rd level, you can cast the _Dissonant Whispers_ spell once with this trait and regain the ability to do so when you finish a Long Rest. When you reach 5th level, you can cast the _Detect Thoughts_ spell once with this trait and regain the ability to do so when you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level.    
+When you cast it with this trait, the Spell uses the same spellcasting ability you use for your *Untethered Bond* trait.

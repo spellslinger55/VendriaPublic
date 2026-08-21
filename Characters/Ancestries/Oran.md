@@ -51,18 +51,18 @@ You can empower yourself with this trait a number of times equal to your Profici
 
 <ins>Grove Oran.</ins>  
 **Ability Score Increase.** +1 Constitution  
-**Oaken Resilience.** You have resistance to Fire damage. Moreover you don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.  
+**Oaken Resilience.** You have Resistance to Fire damage. Moreover you don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.  
 **Debilitate.** Your *Taking Root* trait gains an additional empower option:
 - *Debilitate.* The creature subtracts the Necrotic damage dealt to them from their next ability check or attack roll they make within the next minute.
 
 <ins>Forest Oran.</ins>  
 **Ability Score Increase.** +1 Dexterity  
-**Defensive Coloring.** You have advantage on Dexterity (Stealth) checks made to hide in foliage and plant-rich environments, and can take the Hide action while only lightly obscured by foliage.  
+**Defensive Coloring.** You have Advantage on Dexterity (Stealth) checks made to hide in foliage and plant-rich environments, and can take the *Hide* action while only lightly obscured by foliage.  
 **Invigorate.** Your *Taking Root* trait gains an additional empower option:
 - *Invigorate.* You can immediately move 10 feet without provoking attacks of opporunity.
 
 <ins>Orchard Oran.</ins>  
 **Ability Score Increase.** +1 Charisma  
-**Blood of my Blood.** As an action, you can create a number of Blood Fruit equal to your proficiency bonus. A creature other than you can use their bonus action to consume a Blood Fruit and roll a d4. It regains a number of hit points equal to the roll. Once you use this trait, you can't use it again until you finish a Long Rest. Uneaten Blood Fruit disappear when you finish a Long Rest.  
+**Blood of my Blood.** As an Action, you can create a number of *Blood Fruit* equal to your Proficiency Bonus. A creature other than you can use their bonus action to consume a *Blood Fruit* and roll a d4. It regains a number of Hit Points equal to the roll. Once you use this trait, you can't use it again until you finish a Long Rest. Uneaten Blood Fruit disappear when you finish a Long Rest.  
 **Ripen.** Your *Taking Root* trait gains an additional empower option:
-- *Ripen.* You create a Blood Fruit.
+- *Ripen.* You create a *Blood Fruit*.

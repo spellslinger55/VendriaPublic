@@ -39,23 +39,23 @@ Nael
 **Ability Score Increase.** +2 Constitution  
 **Size.** Small  
 **Speed.** 25ft  
-**Skittish.** You add your proficiency bonus to initiative checks.  
-**Scurry.** When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save.  
+**Skittish.** You add your Proficiency Bonus to initiative checks.  
+**Scurry.** When you fail a Dexterity saving throw, you can use your Reaction to roll a d4 and add it to the save.  
 **Lineage.**
 
 <ins>Corrosive Moddotti.</ins>  
 **Ability Score Increase.** +1 Strength  
-**Sticky Business.** You have a climbing speed equal to your walking speed and you have advantage on Dexterity (Acrobatics) checks to retain balance.  
-**Corrosive Mutagen.** You have resistance to Acid damage.
+**Sticky Business.** You have a climbing speed equal to your walking speed and you have Advantage on Dexterity (Acrobatics) checks to retain balance.  
+**Corrosive Mutagen.** You have Resistance to Acid damage.
 
 <ins>Frigid Moddotti.</ins>  
 **Ability Score Increase.** +1 Dexterity  
 **Shivering Sense.** When you roll initiative, you can immediately move up to half your movement speed.  
-**Frigid Mutagen.** You have resistance to Cold damage.
+**Frigid Mutagen.** You have Resistance to Cold damage.
 
 <ins>Galvanic Moddotti.</ins>  
 **Ability Score Increase.** +1 Intelligence  
-**Overcharged Neurons.** Whenever you finish a long rest, you gain proficiency in one skill of your choice. This proficiency last until the end of your next long rest.  
+**Overcharged Neurons.** Whenever you finish a Long Rest, you gain proficiency in one skill of your choice. This proficiency last until the end of your next Long Rest.  
 **Galvanic Mutagen.** You have resistance to Lightning damage.
 
 

@@ -33,9 +33,9 @@ All / None
 **Ability Score Increase.** +2 to one ability score of your choice, +1 to one other ability scores of your choice  
 **Size.** Medium  
 **Speed.** 30ft  
-**Determined.** When you make an attack roll, an ability check or a saving throw, you can give yourself advantage. Once you use this ability, you can’t use it until you finish a short or long rest.  
+**Determined.** When you make an attack roll, an ability check or a saving throw, you can give yourself Advantage. Once you use this ability, you can’t use it until you finish a Short or Long Rest.  
 **Self-sufficient.** You gain proficiency in one skill and artisan’s tool of your choice.  
-**Innate Emptiness.** You gain the constant effect of Detect Magic within 10 feet of you. You cannot determine the precise origin point of that magic.  
+**Innate Emptiness.** You gain the constant effect of *Detect Magic* within 10 feet of you. You cannot determine the precise origin point of that magic.  
 **Lineage.**   
 
 <ins>Hunter.</ins>  

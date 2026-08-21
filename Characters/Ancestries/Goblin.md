@@ -39,15 +39,15 @@ Khez
 # Goblin
 **Ability Score Increase**. +2 Dexterity  
 **Size** Small  
-**Speed** 30ft.  
+**Speed** 30ft  
 **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
-**Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.  
+**Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest, and you can use it no more than once per turn.  
 **Lineage.**
 
 <ins>Rampant Goblin.</ins>  
 **Ability Score Increase**. +1 Constitution  
-**Nimble Escape.** You can take the Disengage or Hide action as a bonus action on each of your turns.
+**Nimble Escape.** You can take the *Disengage* or *Hide* action as a bonus action on each of your turns.
 
 <ins>Hearth Goblin.</ins>  
 **Ability Score Increase**. +1 Intelligence  
-**Hearth Bond.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Hearth Bond.** If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

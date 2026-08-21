@@ -46,21 +46,21 @@ Cave - Hirana
 # Dwarf
 **Ability Score Increase.** +2 Constitution  
 **Size.** Medium  
-**Speed.** 25ft.  
+**Speed.** 25ft  
 **Darkvision.** You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
-**Dwarven Resilience.** You have advantage on saving throws you make to avoid or end the poisoned condition on yourself, and you have resistance to poison damage.  
+**Dwarven Resilience.** You have Advantage on saving throws you make to avoid or end the Poisoned condition on yourself, and you have Resistance to Poison damage.  
 **Master Craftsmen.** You gain proficiency and expertise with one artisan's tools of your choice.  
 **Rock and Stone.** When you fail a Constitution saving throw, you can use your reaction to roll a d4 and add it to the save.  
 **Lineage.**   
 
 <ins>Hill Dwarf.</ins>  
-**Ability Score Increase.** +1 Strength.  
-**Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.   
+**Ability Score Increase.** +1 Strength  
+**Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 every time you gain a level.   
 
 <ins>Mountain Dwarf.</ins>  
-**Ability Score Increase.** +1 Intelligence.  
-**Cunning Camouflage.** Whenever you make a Dexterity (Stealth) check, you can make that check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   
+**Ability Score Increase.** +1 Intelligence  
+**Cunning Camouflage.** Whenever you make a Dexterity (Stealth) check, you can make that check with Advantage. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
 
 <ins>Cave Dwarf.</ins>  
-**Ability Score Increase.** +1 Wisdom.  
-**Cavernous Fortitude.** You have advantage on saving throws you make to avoid or end the Charmed or Stunned condition on yourself.
+**Ability Score Increase.** +1 Wisdom  
+**Cavernous Fortitude.** You have Advantage on saving throws you make to avoid or end the Charmed or Stunned condition on yourself.

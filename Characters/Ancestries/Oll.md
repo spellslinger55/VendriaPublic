@@ -42,23 +42,23 @@ Varholt
 **Ability Score Increase.** +1 Strength  
 **Size.** Medium  
 **Speed.** 30ft  
-**Powerful Build.** You have advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
+**Powerful Build.** You have Advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
 **Lineage.**
 
 <ins>Skjoll (Stoneblood).</ins>  
-**Ability Score Increase.** +1 Strength, +1 Constitution.  
+**Ability Score Increase.** +1 Strength, +1 Constitution  
 **Natural Athlete.** You have proficiency in the Athletics skill.  
-**Touch of Stone.** You have resistance to Cold damage and you’re acclimated to high altitude, including elevations above 20,000 feet.  
-**Gift of the Stone.** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   
+**Touch of Stone.** You have Resistance to Cold damage and you’re acclimated to high altitude, including elevations above 20,000 feet.  
+**Gift of the Stone.** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your Reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
 
 <ins>Tholl (Stormblood).</ins>  
-**Ability Score Increase.** +1 Wisdom, +1 Intelligence.  
+**Ability Score Increase.** +1 Wisdom, +1 Intelligence  
 **Eye for Craft.** You have proficiency in one artisan's tool of your choice.  
-**Visions.** When you fail a Wisdom saving throw, you can use your reaction to roll a d4 and add it to the save.   
+**Visions.** When you fail a Wisdom saving throw, you can use your Reaction to roll a d4 and add it to the save.  
 **Gift of the Storm.** You also always have the *Speak with Animals* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.  
 
 <ins>Vaoll (Cloudblood).</ins>  
-**Ability Score Increase.** +2 Constitution.  
-**Horns.** You have horns that you can use to make unarmed strikes. When you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
-**Gore.** You can attack with your Horns as a bonus action. If the attack hits, you can push the target 10 feet away from you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   
-**Gift of the Cloud.** When you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the d20. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Ability Score Increase.** +2 Constitution  
+**Horns.** You have horns that you can use to make Unarmed Strikes. When you hit with them, you deal Piercing damage equal to 1d6 + your Strength modifier, instead of the Bludgeoning damage normal for an Unarmed Strike.  
+**Gore.** You can attack with your *Horns* as a bonus action. If the attack hits and the target is Large or smaller, you can push the target 10 feet away from you. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.   
+**Gift of the Cloud.** When you make an ability check using any skill in which you have proficiency, you can give yourself Advantage on the check before rolling the d20. You can give yourself Advantage in this way a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

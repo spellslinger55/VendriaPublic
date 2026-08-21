@@ -40,17 +40,17 @@ Qan
 # Quetzpal
 **Ability Score Increase.** +2 Constitution  
 **Size.** Medium  
-**Speed.** 30ft, swim 30ft.  
+**Speed.** 30ft, swim 30ft  
 **Semiaquatic.** You can hold your breath for up to 1 hour at a time, and have a swimming speed equal to your movement speed.  
-**Bite.** You have a fanged maw that you can use to make unarmed strikes. When you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
+**Bite.** You have a fanged maw that you can use to make Unarmed Strikes. When you hit with it, you deal Piercing damage equal to 1d6 + your Strength modifier, instead of the Bludgeoning damage normal for an Unarmed Strike.  
 **Hunter's Lore.** You have proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.  
-**Natural Armor.** You have tough, scaly skin. When you aren't wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.  
+**Natural Armor.** You have tough, scaly skin. When you aren't wearing armor, your AC is 12 + your Constitution modifier. You can use your *Natural Armor* to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your *Natural Armor*.  
 **Lineage.**
 
 <ins>Swiftclaw Quetzpal.</ins>  
 **Ability Score Increase.** +1 Wisdom  
-**Fight or Flight.** You can take the Dash action as a bonus action. When you do so, you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Fight or Flight.** You can take the *Dash* action as a Bonus Action. When you do so, you gain Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 <ins>Razormaw Quetzpal.</ins>  
 **Ability Score Increase.** +1 Strength  
-**Crushing Jaws.** You can attack with your Bite as a bonus action. If the attack hits, you gain temporary hit points equal to the damage inflicted. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Crushing Jaws.** You can attack with your *Bite* as a Bonus Action. If the attack hits, you gain Temporary Hit Points equal to the damage inflicted. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

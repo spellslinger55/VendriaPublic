@@ -50,26 +50,26 @@ Lunar - Nael
 **Size.** Medium  
 **Speed.** 30ft  
 **Keen Senses.** You have proficiency in the Insight, Perception, or Survival skill.  
-**True Ancestry.** You have advantage on saving throws you make to avoid or end the Charmed condition on yourself.  
+**True Ancestry.** You have Advantage on saving throws you make to avoid or end the Charmed condition on yourself.  
 **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trance-like meditation, during which you retain consciousness.  
 **Lineage.**   
 
 <ins>Dawn Elf.</ins>  
-**Ability Score Increase.** +1 Intelligence.  
+**Ability Score Increase.** +1 Intelligence  
 **Sharp of Tongue.** You can speak, read, and write one language of your choice.  
 **Spark of Dawn.** You know one cantrip of your choice from any class spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell when you cast them with this trait (choose when you select this ancestry). Whenever you finish a Long Rest, you can replace the cantrip with a different one.  
 
 <ins>Dusk Elf.</ins>  
-**Ability Score Increase.** +1 Charisma.  
+**Ability Score Increase.** +1 Charisma  
 **Dark of Sight.** You can see in dim light within 60ft of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.   
 **Spark of Dusk.** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.   
 
 <ins>Solar Elf.</ins>  
-**Ability Score Increase.** +1 Wisdom.  
+**Ability Score Increase.** +1 Wisdom  
 **Fleet of Foot.** Your base walking speed increases by 5ft.  
-**Spark of Sol.** You can attempt to hide even when you are only lightly obscured, for example by foliage, heavy rain, falling snow, or mist.
+**Spark of Sol.** You can take the *Hide* action even when you are only lightly obscured, for example by foliage, heavy rain, falling snow, or mist.
 
 <ins>Lunar Elf.</ins>  
-**Ability Score Increase.** +1 Constitution.  
+**Ability Score Increase.** +1 Constitution  
 **Strong of Fin.** You can hold your breath for up to 1 hour, and have a swimming speed equal to your movement speed.  
 **Spark of Luna.** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reducie its speed by 10 feet until the start of your next turn. You can use this ability a number of times equal to your Proficiency Bonus and regain all expended uses when you finish a Long Rest.

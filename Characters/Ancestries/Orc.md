@@ -44,15 +44,15 @@ Khez
 **Size.** Medium  
 **Speed.** 30ft  
 **Darkvision.** You can see in dim light within 60ft of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.  
-**Powerful Build.** You have advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
+**Powerful Build.** You have Advantage on any saving throw you make to end the Grappled condition on yourself. Moreover, you count as one size larger when determining your carrying capacity and the weight you can push, drag or lift.  
 **Old Traditions.** You have proficiency in one of the following skills of your choice: Animal Handling, Nature, Survival, Persuasion, Intimidation.  
-**Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.  
+**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. You can't use this feature again until you finish a Long Rest.  
 **Lineage.**
 
 <ins>Bloodborne Orc.</ins>  
 **Ability Score Increase.** +1 Constitution  
-**Boiling Blood.** As a reaction to taking damage, you can regain 1d6 + your Constitution modifier hit points. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
+**Boiling Blood.** As a Reaction to taking damage, you can regain 1d6 + your Constitution modifier Hit Points. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
 
 <ins>Battleborne Orc.</ins>  
 **Ability Score Increase.** +1 Dexterity  
-**Breaking Bones.** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
+**Breaking Bones.** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 

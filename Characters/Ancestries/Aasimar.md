@@ -40,23 +40,24 @@ Depends on parentage
 **Ability Score Increase.** +2 Charisma  
 **Size.** Medium or Small  
 **Speed.** 30ft or 25ft  
-**Celestial Resistance.** You have resistance to Necrotic damage and Radiant damage.  
-**Healing Hands.** As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest.  
+**Celestial Resistance.** You have Resistance to Necrotic damage and Radiant damage.  
+**Healing Hands.** As an Action, you can touch a creature and roll a number of d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.  
 **Light Bearer.** You know the _Light_ cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this ancestry).  
 **Lineage.**
 
 <ins>Protector Aasimar.</ins>  
-**Ability Score Increase.** +1 Wisdom.  
-**Radiant Soul.** Starting at 3rd level, you can use your bonus action to unleash the energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.  
-Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your proficiency bonus. Once you use this trait, you can't use it again until you finish a long rest.
+**Ability Score Increase.** +1 Wisdom  
+**Radiant Soul.** Starting at 3rd level, you can use your Bonus Action to unleash the energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.  
+Your transformation lasts for 1 minute or until you end it as a Bonus Action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra Radiant damage to one target when you deal damage to it with an attack or a spell. The extra Radiant damage equals your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 <ins>Scourge Aasimar.</ins>  
-**Ability Score Increase.** +1 Constitution.  
-**Radiant Consumption.** Starting at 3rd level, you can use your bonus action to unleash the energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.  
-Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each enemy creature within 10 feet of you takes radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your proficiency bonus. Once you use this trait, you can't use it again until you finish a long rest.
+**Ability Score Increase.** +1 Constitution  
+**Radiant Consumption.** Starting at 3rd level, you can use your Bonus Action to unleash the energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.  
+Your transformation lasts for 1 minute or until you end it as a Bonus Action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each enemy creature within 10 feet of you takes Radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra Radiant damage to one target when you deal damage to it with an attack or a spell. The extra Radiant damage equals your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 <ins>Watcher Aasimar.</ins>  
-**Ability Score Increase.** +1 Strength.  
-**Radiant Shroud.** Starting at 3rd level, you can use your bonus action to unleash the energy within yourself, causing your eyes to glaze over and a misty haze to shroud your body.  
-The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw or become frightened of you until the end of your next turn. Your DC equals 8 + your proficiency bonus + your Intelligence, Wisdom, or Charisma modifier (choose when you select this ancestry). Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your proficiency bonus. Once you use this trait, you can't use it again until you finish a long rest.
+**Ability Score Increase.** +1 Strength  
+**Radiant Shroud.** Starting at 3rd level, you can use your Bonus Action to unleash the energy within yourself, causing your eyes to glaze over and a misty haze to shroud your body.  
+When you transform, creatures of your choice within 10 feet of you must succeed on a Charisma saving throw (DC equals 8 plus your Proficiency Bonus plus your Intelligence, Wisdom, or Charisma modifier (choose when you select this ancestry)) or become Frightened of you until the end of your next turn.  
+Your transformation lasts for 1 minute or until you end it as a Bonus Action. During it, once on each of your turns, you can deal extra Radiant damage to one target when you deal damage to it with an attack or a spell. The extra Radiant damage equals your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest.
 

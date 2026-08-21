@@ -39,21 +39,21 @@ Hirana
 **Size.** Medium  
 **Speed.** 30ft  
 **Draconic Ancestry.** You can speak, read and write Draconic. Moreover, choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.  
-**Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of destructive energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Your draconic ancestry determines the damage type of the exhalation. Each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, the creature takes 1d10 damage, or half as much on a successful save. This damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
-**Damage Resistance.** You have resistance to the damage type associated with your draconic ancestry.  
+**Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of destructive energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Your *Draconic Ancestry* determines the damage type of the exhalation. Each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry (DC 8 + your Constitution modifier and Proficiency Bonus). On a failed save, the creature takes 1d10 damage, or half as much on a successful save. This damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  
+**Damage Resistance.** You have Resistance to the damage type associated with your *Draconic Ancestry*.  
 **Lineage.**
 
 <ins>Dragonhide Dragonborn.</ins>  
 **Ability Score Increase.** +2 Constitution  
-**Warding Dream.** Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 10 minutes, you become immune to the damage type associated with your Draconic Ancestry. Once you use this trait, you can't do so again until you finish a long rest.
+**Warding Dream.** Starting at 5th level, as an Action, you can channel your draconic energy to protect yourself. For 10 minutes, you become Immune to the damage type associated with your *Draconic Ancestry*. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 <ins>Dragonflight Dragonborn.</ins>  
 **Ability Score Increase.** +2 Dexterity  
-**Fleeting Dream.** Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 10 minutes. For the duration, you gain a flying speed equal to your walking speed. Once you use this trait, you can't do so again until you finish a long rest.
+**Fleeting Dream.** Starting at 5th level, you can use a Bonus Action to manifest spectral wings on your body. These wings last for 10 minutes. For the duration, you gain a flying speed equal to your walking speed. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 <ins>Dragonform Dragonborn.</ins>  
 **Ability Score Increase.** +2 Strength  
-**Giant Dream.** Starting at 5th level, you can use a bonus action to change your size to Large if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
+**Giant Dream.** Starting at 5th level, you can use a Bonus Action to change your size to Large if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 | Dragon | Damage Type | Saving throw |
 | ------ | ----------- | ------------ |
