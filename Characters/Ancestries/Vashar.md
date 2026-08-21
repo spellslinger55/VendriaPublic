@@ -54,4 +54,4 @@ Shayin
 
 <ins>Pursuer Vashar.</ins>  
 **Ability Score Increase.** +1 Dexterity  
-**Feline Pounce.** As a Bonus Action, you can pounce on an enemy within 15 feet of you. Move next to them without provoking Opportunity Attacks, then make an Attack with your *Claws*. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+**Feline Pounce.** As a Bonus Action, you can pounce on an enemy within 15 feet of you. Move next to them, then make an Attack with your *Claws*. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
