@@ -57,4 +57,4 @@ Khez
 
 <ins>Soothsayer Varkolak.</ins>  
 **Ability Score Increase.** +1 Charisma  
-**Consult the Bones.** You know the *Guidance* cantrip. You also always have the *Detect Evil and Good* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+**Consult the Bones.** You know the *Guidance* cantrip. You also always have the *Detect Evil and Good* and *Hex* spells prepared. You can cast each spell once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this ancestry).
