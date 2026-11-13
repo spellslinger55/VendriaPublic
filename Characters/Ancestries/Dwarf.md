@@ -19,7 +19,7 @@ In ancient Varholt, it is said that the cunning dwarves mistrusted and fought th
 #### Historical Organizations
 - The Stone Sentry - an ancient, bergovian order of warrior-druids who guarded the mountain realms of Bergov
 - Blood & Darkness, the Gladiator's Guild - greatest of the gladiator's guilds in Cayra, formed when the Bloody Spectacle Guild and the Dark Entertainment Guild merged and combined their wealth
-- the Hatar Brewing Company - the richest, most known producers of alcohol in Hirana
+- the Yanai Brewing Company - the richest, most known producers of alcohol in Hirana
 #### Common Taboos
 - Cowardice in the face of opponents greater than yourself 
 - Poor craftsmanship, better do nothing than do a bad job
