@@ -27,7 +27,7 @@ City-State
 **Throne City**  
 Cayra  
 **Leader**  
-Princeps Regulus Kostas  
+Princeps Karnak Delos  
 **Official Religion**  
 Astrian Pantheon  
 **Official Languages**  
