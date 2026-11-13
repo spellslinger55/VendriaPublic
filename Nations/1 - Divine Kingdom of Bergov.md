@@ -7,9 +7,7 @@ After the fall of the Empire, many old noble families fought over the now empty 
 ### Culture
 Bergov is a simple land of simple people. Peasants toil in the ground, chivalrous knights fight in tournaments, fey steal children in the night and maidens are saved from towers of mad wizards. 
 ### Religion
-Bergov has firmly adopted the Astrian Pantheon, with the Harvester, the Rose and the Hangman being the most popular deities. Unlike other Astrianist nations, Bergov has a strong faith of the Saints and is famed for extravagant churches in their names. The most famous of these are the:
-- _the Hallowed Church in the name of His Passage_
-- _the Church of Saint Antonia the Resolute_.
+Bergov has firmly adopted the Astrian Pantheon, with the Harvester, the Rose and the Hangman being the most popular deities. Unlike other Astrianist nations, Bergov has a strong faith of the Saints and is famed for extravagant churches in their names. 
 ### Geography
 Bergov is located in central Astros. The land bound kingdom neighbors Khez to the north, Nael to the east and wild No Man's Lands to the west and south. Bergovian landscape consists primarily of dense forests, low hills, with the occasional lakes and rivers. Sprinkled throughout the land one could find ancient obelisks, groves, spires and other objects sacred to druidic sects. The land of Bergov is situated between two massive mountain ranges, the north one acting as a natural border between Bergov and Khez.
 
