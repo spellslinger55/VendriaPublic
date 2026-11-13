@@ -20,9 +20,9 @@ Hirana is located on the eastern reaches of the Saarian continent. To the west i
 **Government System**  
 Absolute Monarchy  
 **Throne City**  
-Hatar  
+Yanai  
 **Leader**  
-Lady Itou  
+Lady Itou, Twice-Shrouded  
 **Official Religion**  
 Saarian Pantheon  
 **Official Languages**  
