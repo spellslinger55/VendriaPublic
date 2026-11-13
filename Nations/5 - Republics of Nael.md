@@ -14,11 +14,11 @@ Nael has firmly adopted the Astrian Pantheon, primarily focusing their faith on 
 Nael is located on the eastern reaches of the Astrian continent. It borders Bergov, Cayra and Khez to the west and two seas: the Wine Red Sea to the south and the Grakkian Sea to the east. Naelian land mainly consists of vast, green plains and grasslands with vineyards and forests sprinkled throughout the countryside. The five Republias of Nael are: Ovest, Isole, Fa-la-Mer, Insulinda and La Melina.
 
 **Government System**  
-Republic (Multiple)  
+Republic  
 **Capitol**  
 Monte-Cavvilo  
 **Leader**  
-The Council  
+The Council of Ducas  
 **Official Religion**  
 Astrian Pantheon  
 **Official Languages**  
